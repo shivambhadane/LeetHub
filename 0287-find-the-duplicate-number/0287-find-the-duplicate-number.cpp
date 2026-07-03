@@ -1,16 +1,24 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        unordered_map<int,int> mp;
 
-        for(int num:nums){
-            mp[num]++;
-            if(mp[num]>1){
-                return num;
-            }
+        // Phase 1: Find the intersection point inside the cycle
+        int slow = nums[0];
+        int fast = nums[0];
 
+        do {
+            slow = nums[slow];          // Move one step
+            fast = nums[nums[fast]];    // Move two steps
+        } while (slow != fast);
+
+        // Phase 2: Find the entrance of the cycle (duplicate number)
+        slow = nums[0];
+
+        while (slow != fast) {
+            slow = nums[slow];
+            fast = nums[fast];
         }
-        return -1;
-        
+
+        return slow;
     }
 };
