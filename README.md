@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shivambhadane/LeetHub/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/shivambhadane/LeetHub/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivambhadane/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/shivambhadane/LeetHub/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/shivambhadane/LeetHub/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivambhadane/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shivambhadane/LeetHub/tree/master/0169-majority-element) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shivambhadane/LeetHub/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivambhadane/LeetHub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivambhadane/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/shivambhadane/LeetHub/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/shivambhadane/LeetHub/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivambhadane/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/shivambhadane/LeetHub/tree/master/0287-find-the-duplicate-number) |
