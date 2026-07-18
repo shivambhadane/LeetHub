@@ -1,16 +1,25 @@
 class Solution {
 public:
+    // Function to remove duplicates from sorted array in-place
     int removeDuplicates(vector<int>& nums) {
-        int i =0;
-        int j =1;
-        while(j<nums.size()){
-            if(nums[i]!=nums[j]){
+        // If array is empty, return 0 directly
+        if (nums.empty()) return 0;
+
+        // Pointer for the position of last unique element
+        int i = 0;
+
+        // Traverse the array starting from the second element
+        for (int j = 1; j < nums.size(); j++) {
+            // If current element is different from last unique element
+            if (nums[j] != nums[i]) {
+                // Move pointer for unique element forward
                 i++;
+                // Place the new unique element at the next position
                 nums[i] = nums[j];
             }
-            j++;
-        
         }
-        return i+1;
+
+        // i is index of last unique element, count = i + 1
+        return i + 1;
     }
 };
