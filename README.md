@@ -111,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivambhadane/LeetHub/tree/master/2149-rearrange-array-elements-by-sign) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/shivambhadane/LeetHub/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
