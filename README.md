@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shivambhadane/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/shivambhadane/LeetHub/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shivambhadane/LeetHub/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shivambhadane/LeetHub/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/shivambhadane/LeetHub/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/shivambhadane/LeetHub/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivambhadane/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shivambhadane/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/shivambhadane/LeetHub/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/shivambhadane/LeetHub/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shivambhadane/LeetHub/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
