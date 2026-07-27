@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivambhadane/LeetHub/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/shivambhadane/LeetHub/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shivambhadane/LeetHub/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shivambhadane/LeetHub/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/shivambhadane/LeetHub/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/shivambhadane/LeetHub/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/shivambhadane/LeetHub/tree/master/2235-add-two-integers) |
 ## Matrix
 |  |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/shivambhadane/LeetHub/tree/master/0374-guess-number-higher-or-lower) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shivambhadane/LeetHub/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
