@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/shivambhadane/LeetHub/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivambhadane/LeetHub/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/shivambhadane/LeetHub/tree/master/0881-boats-to-save-people) |
+| [0896-monotonic-array](https://github.com/shivambhadane/LeetHub/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/shivambhadane/LeetHub/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivambhadane/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shivambhadane/LeetHub/tree/master/1480-running-sum-of-1d-array) |
