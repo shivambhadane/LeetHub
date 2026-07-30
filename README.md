@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivambhadane/LeetHub/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/shivambhadane/LeetHub/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shivambhadane/LeetHub/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shivambhadane/LeetHub/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/shivambhadane/LeetHub/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shivambhadane/LeetHub/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shivambhadane/LeetHub/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivambhadane/LeetHub/tree/master/0342-power-of-four) |
@@ -180,5 +182,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shivambhadane/LeetHub/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shivambhadane/LeetHub/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
