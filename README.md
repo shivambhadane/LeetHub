@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivambhadane/LeetHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivambhadane/LeetHub/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/shivambhadane/LeetHub/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/shivambhadane/LeetHub/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivambhadane/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shivambhadane/LeetHub/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivambhadane/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shivambhadane/LeetHub/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/shivambhadane/LeetHub/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/shivambhadane/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/shivambhadane/LeetHub/tree/master/0342-power-of-four) |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivambhadane/LeetHub/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shivambhadane/LeetHub/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shivambhadane/LeetHub/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
