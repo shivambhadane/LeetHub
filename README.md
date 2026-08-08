@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/shivambhadane/LeetHub/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shivambhadane/LeetHub/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/shivambhadane/LeetHub/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shivambhadane/LeetHub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivambhadane/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shivambhadane/LeetHub/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shivambhadane/LeetHub/tree/master/0189-rotate-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shivambhadane/LeetHub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivambhadane/LeetHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivambhadane/LeetHub/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shivambhadane/LeetHub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivambhadane/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivambhadane/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/shivambhadane/LeetHub/tree/master/0287-find-the-duplicate-number) |
