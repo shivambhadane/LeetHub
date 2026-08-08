@@ -1,24 +1,22 @@
 class Solution {
 public:
     int search(vector<int>& arr, int target) {
-        
-    int low = 0;
-    int high = arr.size() - 1;
-
-    while (low <= high) {
-
-        int mid = low + (high - low) / 2;
-
-        if (arr[mid] == target)
-            return mid;
-
-        else if (target > arr[mid])
-            low = mid + 1;
-
-        else
-            high = mid - 1;
+        return bs(arr, 0, arr.size()-1,target);
     }
-
-    return -1;
+    int bs(vector<int>& arr, int low, int high, int target){
+        if(low>high){
+            return -1;
+        }
+        int mid = (low+high)/2;
+        if(arr[mid]==target){
+            return mid;
+        }
+        else if(arr[mid]>target){
+            return bs(arr, low,mid-1,target);
+        }
+        else if(arr[mid]<target){
+            return  bs(arr, mid+1,high,target);
+        }
+        return -1;
     }
 };
