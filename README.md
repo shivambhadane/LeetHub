@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/shivambhadane/LeetHub/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivambhadane/LeetHub/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/shivambhadane/LeetHub/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivambhadane/LeetHub/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivambhadane/LeetHub/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/shivambhadane/LeetHub/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/shivambhadane/LeetHub/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/shivambhadane/LeetHub/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivambhadane/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivambhadane/LeetHub/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/shivambhadane/LeetHub/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/shivambhadane/LeetHub/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/shivambhadane/LeetHub/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivambhadane/LeetHub/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivambhadane/LeetHub/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
