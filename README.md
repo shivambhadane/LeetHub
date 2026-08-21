@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/shivambhadane/LeetHub/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/shivambhadane/LeetHub/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivambhadane/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/shivambhadane/LeetHub/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shivambhadane/LeetHub/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shivambhadane/LeetHub/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1672-richest-customer-wealth](https://github.com/shivambhadane/LeetHub/tree/master/1672-richest-customer-wealth) |
