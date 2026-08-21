@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/shivambhadane/LeetHub/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shivambhadane/LeetHub/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1672-richest-customer-wealth](https://github.com/shivambhadane/LeetHub/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/shivambhadane/LeetHub/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivambhadane/LeetHub/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/shivambhadane/LeetHub/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivambhadane/LeetHub/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivambhadane/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivambhadane/LeetHub/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/shivambhadane/LeetHub/tree/master/0560-subarray-sum-equals-k) |
+| [1748-sum-of-unique-elements](https://github.com/shivambhadane/LeetHub/tree/master/1748-sum-of-unique-elements) |
 | [3731-find-missing-elements](https://github.com/shivambhadane/LeetHub/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivambhadane/LeetHub/tree/master/0169-majority-element) |
+| [1748-sum-of-unique-elements](https://github.com/shivambhadane/LeetHub/tree/master/1748-sum-of-unique-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
