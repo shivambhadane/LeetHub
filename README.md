@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shivambhadane/LeetHub/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/shivambhadane/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/shivambhadane/LeetHub/tree/master/0342-power-of-four) |
+| [1610-xor-operation-in-an-array](https://github.com/shivambhadane/LeetHub/tree/master/1610-xor-operation-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/shivambhadane/LeetHub/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/shivambhadane/LeetHub/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shivambhadane/LeetHub/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1610-xor-operation-in-an-array](https://github.com/shivambhadane/LeetHub/tree/master/1610-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/shivambhadane/LeetHub/tree/master/2235-add-two-integers) |
 ## Matrix
 |  |
