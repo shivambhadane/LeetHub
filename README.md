@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shivambhadane/LeetHub/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shivambhadane/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivambhadane/LeetHub/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shivambhadane/LeetHub/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/shivambhadane/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [1748-sum-of-unique-elements](https://github.com/shivambhadane/LeetHub/tree/master/1748-sum-of-unique-elements) |
 | [3731-find-missing-elements](https://github.com/shivambhadane/LeetHub/tree/master/3731-find-missing-elements) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/shivambhadane/LeetHub/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shivambhadane/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivambhadane/LeetHub/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shivambhadane/LeetHub/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/shivambhadane/LeetHub/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/shivambhadane/LeetHub/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivambhadane/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shivambhadane/LeetHub/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/shivambhadane/LeetHub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivambhadane/LeetHub/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
