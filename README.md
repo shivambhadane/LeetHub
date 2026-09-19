@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shivambhadane/LeetHub/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivambhadane/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/shivambhadane/LeetHub/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/shivambhadane/LeetHub/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/shivambhadane/LeetHub/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shivambhadane/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivambhadane/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/shivambhadane/LeetHub/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/shivambhadane/LeetHub/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/shivambhadane/LeetHub/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/shivambhadane/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/shivambhadane/LeetHub/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/shivambhadane/LeetHub/tree/master/0461-hamming-distance) |
