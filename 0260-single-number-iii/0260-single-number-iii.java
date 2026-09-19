@@ -1,20 +1,28 @@
 class Solution {
     public int[] singleNumber(int[] nums) {
-        HashMap<Integer, Integer> map = new HashMap<>();
+        int xor = 0;
 
-for (int num : nums) {
-    map.put(num, map.getOrDefault(num, 0) + 1);
-}
+        // Step 1: XOR everything
+        for (int num : nums) {
+            xor ^= num;
+        }
 
-int[] ans = new int[2];
-int index = 0;
+        // Step 2: rightmost bit where the two unique numbers differ
+        int mask = xor & -xor;
 
-for (int num : map.keySet()) {
-    if (map.get(num) == 1) {
-        ans[index++] = num;
-    }
-}
+        int a = 0;
+        int b = 0;
 
-return ans;
+        // Step 3: split into two groups
+        for (int num : nums) {
+            if ((num & mask) == 0) {
+                a ^= num;
+            } else {
+                b ^= num;
+            }
+        }
+
+        return new int[]{a, b};
+
     }
 }
