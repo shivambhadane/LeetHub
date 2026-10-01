@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/shivambhadane/LeetHub/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/shivambhadane/LeetHub/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shivambhadane/LeetHub/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shivambhadane/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivambhadane/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivambhadane/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/shivambhadane/LeetHub/tree/master/0704-binary-search) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivambhadane/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivambhadane/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivambhadane/LeetHub/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shivambhadane/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shivambhadane/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [1748-sum-of-unique-elements](https://github.com/shivambhadane/LeetHub/tree/master/1748-sum-of-unique-elements) |
 | [3731-find-missing-elements](https://github.com/shivambhadane/LeetHub/tree/master/3731-find-missing-elements) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivambhadane/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivambhadane/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivambhadane/LeetHub/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shivambhadane/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/shivambhadane/LeetHub/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/shivambhadane/LeetHub/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/shivambhadane/LeetHub/tree/master/0948-sort-an-array) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shivambhadane/LeetHub/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shivambhadane/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shivambhadane/LeetHub/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shivambhadane/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/shivambhadane/LeetHub/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/shivambhadane/LeetHub/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivambhadane/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivambhadane/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivambhadane/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/shivambhadane/LeetHub/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shivambhadane/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/shivambhadane/LeetHub/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/shivambhadane/LeetHub/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivambhadane/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
