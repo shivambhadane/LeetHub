@@ -283,4 +283,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2024-calculate-special-bonus](https://github.com/shivambhadane/LeetHub/tree/master/2024-calculate-special-bonus) |
+## Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/shivambhadane/LeetHub/tree/master/0450-delete-node-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/shivambhadane/LeetHub/tree/master/0450-delete-node-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/shivambhadane/LeetHub/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
