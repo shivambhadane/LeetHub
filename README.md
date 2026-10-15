@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/shivambhadane/LeetHub/tree/master/0101-symmetric-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shivambhadane/LeetHub/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -294,5 +295,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/shivambhadane/LeetHub/tree/master/0101-symmetric-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shivambhadane/LeetHub/tree/master/0450-delete-node-in-a-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/shivambhadane/LeetHub/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/shivambhadane/LeetHub/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
