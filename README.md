@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shivambhadane/LeetHub/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/shivambhadane/LeetHub/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivambhadane/LeetHub/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivambhadane/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivambhadane/LeetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivambhadane/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shivambhadane/LeetHub/tree/master/0169-majority-element) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shivambhadane/LeetHub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/shivambhadane/LeetHub/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/shivambhadane/LeetHub/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivambhadane/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/shivambhadane/LeetHub/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shivambhadane/LeetHub/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/shivambhadane/LeetHub/tree/master/0912-sort-an-array) |
@@ -287,15 +289,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/shivambhadane/LeetHub/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivambhadane/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shivambhadane/LeetHub/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivambhadane/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shivambhadane/LeetHub/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/shivambhadane/LeetHub/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivambhadane/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shivambhadane/LeetHub/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
