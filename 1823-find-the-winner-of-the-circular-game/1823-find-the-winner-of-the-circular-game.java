@@ -1,9 +1,12 @@
 class Solution {
     public int findTheWinner(int n, int k) {
-        if (n == 1) {
-            return 1;
-        }
+    int result = 0;
 
-        return (findTheWinner(n - 1, k) + k - 1) % n + 1;
+    for (int i = 2; i <= n; i++) {
+        result = (result + k) % i;
     }
-}
+
+    return result + 1; 
+
+    
+}}
