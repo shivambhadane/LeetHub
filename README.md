@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shivambhadane/LeetHub/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shivambhadane/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivambhadane/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/shivambhadane/LeetHub/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivambhadane/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivambhadane/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/shivambhadane/LeetHub/tree/master/0704-binary-search) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivambhadane/LeetHub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/shivambhadane/LeetHub/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/shivambhadane/LeetHub/tree/master/0374-guess-number-higher-or-lower) |
+| [0493-reverse-pairs](https://github.com/shivambhadane/LeetHub/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivambhadane/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shivambhadane/LeetHub/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivambhadane/LeetHub/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivambhadane/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/shivambhadane/LeetHub/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shivambhadane/LeetHub/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/shivambhadane/LeetHub/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/shivambhadane/LeetHub/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/shivambhadane/LeetHub/tree/master/0948-sort-an-array) |
 ## Counting
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivambhadane/LeetHub/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/shivambhadane/LeetHub/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/shivambhadane/LeetHub/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/shivambhadane/LeetHub/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/shivambhadane/LeetHub/tree/master/0948-sort-an-array) |
 ## Bucket Sort
@@ -325,4 +329,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shivambhadane/LeetHub/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shivambhadane/LeetHub/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shivambhadane/LeetHub/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shivambhadane/LeetHub/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shivambhadane/LeetHub/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
