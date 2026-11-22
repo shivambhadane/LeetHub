@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/shivambhadane/LeetHub/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/shivambhadane/LeetHub/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivambhadane/LeetHub/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shivambhadane/LeetHub/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/shivambhadane/LeetHub/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/shivambhadane/LeetHub/tree/master/2048-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivambhadane/LeetHub/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shivambhadane/LeetHub/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivambhadane/LeetHub/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/shivambhadane/LeetHub/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shivambhadane/LeetHub/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shivambhadane/LeetHub/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/shivambhadane/LeetHub/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/shivambhadane/LeetHub/tree/master/2048-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivambhadane/LeetHub/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/shivambhadane/LeetHub/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shivambhadane/LeetHub/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1610-xor-operation-in-an-array](https://github.com/shivambhadane/LeetHub/tree/master/1610-xor-operation-in-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shivambhadane/LeetHub/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/shivambhadane/LeetHub/tree/master/2235-add-two-integers) |
 ## Matrix
 |  |
@@ -317,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivambhadane/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shivambhadane/LeetHub/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
